@@ -19,7 +19,6 @@ A modern Flutter application that helps users make everyday decisions quickly an
 
 ## 📸 Screenshots
 
-> Add your application screenshots here.
 
 | Home Screen | Food Screen |
 |-------------|-------------|
